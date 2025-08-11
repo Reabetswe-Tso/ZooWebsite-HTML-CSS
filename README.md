@@ -11,8 +11,8 @@ It allows visitors to explore **animal exhibits**, **places of interest**, **map
 -  **Animal Profiles** - Dedicated pages for specific animals
 -  **Zoo Map** - Visual guide to the zoo layout
 -  **Weather Page** = Displays current weather information (placeholder design)
-- **Visitor Feedback Form** - Simple form for user comments
-- 🎨 **Custom CSS Styling** - Consistent theme and layout
+-  **Visitor Feedback Form** - Simple form for user comments
+-  **Custom CSS Styling** - Consistent theme and layout
 
 ---
 
@@ -27,15 +27,30 @@ It allows visitors to explore **animal exhibits**, **places of interest**, **map
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/your-username/Zoo-Website.git
+2️⃣ Navigate into the project folder
 cd Zoo-Website
-start index.html   # Windows
-open index.html    # macOS
+3️⃣ Open the main page in your browser
+start index.html  
+open index.html
+``` 
 Zoo-Website/
-│── index.html               # Main zoo map page
-│── Animals.html             # Animal section
-│── Places.html              # Places of interest
-│── Weather.html             # Weather info page
-│── Feedback.html            # Visitor feedback form
-│── style.css                # Website styling
-│── images/                  # All images & icons
-│── README.md                # Documentation
+- index.html               # Main zoo map page
+- Animals.html             # Animal section
+- Places.html              # Places of interest
+- Weather.html             # Weather info page
+- Feedback.html            # Visitor feedback form
+- style.css                # Website styling
+- images/                  # All images & icons
+- README.md                # Documentation
+
+💡 Future Improvements
+ * Search functionality for animals & places
+
+ * Mobile-responsive layout
+
+ * Interactive map with clickable areas
+
+* Dynamic weather API integration
+
+👤 Author
+Reabetswe Tsotetsi
