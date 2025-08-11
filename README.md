@@ -28,3 +28,15 @@ It allows visitors to explore **animal exhibits**, **places of interest**, **map
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/your-username/Zoo-Website.git
+cd Zoo-Website
+start index.html   # Windows
+open index.html    # macOS
+Zoo-Website/
+│── index.html               # Main zoo map page
+│── Animals.html             # Animal section
+│── Places.html              # Places of interest
+│── Weather.html             # Weather info page
+│── Feedback.html            # Visitor feedback form
+│── style.css                # Website styling
+│── images/                  # All images & icons
+│── README.md                # Documentation
