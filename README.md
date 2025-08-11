@@ -27,12 +27,13 @@ It allows visitors to explore **animal exhibits**, **places of interest**, **map
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/your-username/Zoo-Website.git
+```
 2️⃣ Navigate into the project folder
 cd Zoo-Website
 3️⃣ Open the main page in your browser
 start index.html  
 open index.html
-``` 
+--- 
 Zoo-Website/
 - index.html               # Main zoo map page
 - Animals.html             # Animal section
@@ -53,4 +54,4 @@ Zoo-Website/
 * Dynamic weather API integration
 
 👤 Author
-Reabetswe Tsotetsi
+- Reabetswe Tsotetsi
