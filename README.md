@@ -1,4 +1,4 @@
-# 🦁 Zoo Information & Navigation Website
+# Zoo Information & Navigation Website
 
 ## Overview
 The **Zoo Information & Navigation Website** is a **multi-page HTML & CSS website** designed to simulate an interactive zoo information system.  
@@ -16,7 +16,7 @@ It allows visitors to explore **animal exhibits**, **places of interest**, **map
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **HTML5**
 - **CSS3**
 - **Custom Images & Icons**
@@ -32,7 +32,7 @@ It allows visitors to explore **animal exhibits**, **places of interest**, **map
 
 
 
-## 🚀 How to Run
+## How to Run
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/your-username/Zoo-Website.git
@@ -53,7 +53,7 @@ Zoo-Website/
 - images/                  # All images & icons
 - README.md                # Documentation
 
-💡 Future Improvements
+  Future Improvements
  * Search functionality for animals & places
 
  * Mobile-responsive layout
@@ -62,5 +62,5 @@ Zoo-Website/
 
 * Dynamic weather API integration
 
-👤 Author
+  Author
 - Reabetswe Tsotetsi
